@@ -1,0 +1,25 @@
+{
+  "name": "grasshopper",
+  "version": "1.0.0",
+  "description": "Códigos desenvolvidos nos cursos do Grasshopper",
+  "main": "subsequencia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brazillucas/grasshopper.git"
+  },
+  "keywords": [
+    "grasshopper"
+  ],
+  "author": "brazillucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brazillucas/grasshopper/issues"
+  },
+  "homepage": "https://github.com/brazillucas/grasshopper#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
