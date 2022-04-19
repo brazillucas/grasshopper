@@ -1,4 +1,4 @@
-# grasshopper
+# Grasshopper
 Repositório para registrar os exercícios que fiz nos cursos do app Grasshopper.
 
 Criado para o curso <b>Introdução a Entrevista</b> da plataforma "Grasshopper".
